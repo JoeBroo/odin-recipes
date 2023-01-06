@@ -2,5 +2,12 @@
 * {
     background-color: whitesmoke;
     font-family: sans-serif, Arial, Verdana;
-    color:lightskyblue
+    color: blue
+}
+
+li a {
+    font-family: sans-serif, Arial, Verdana;
+    color: violet;
+    font-size:  20px;
+
 }
