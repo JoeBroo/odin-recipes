@@ -1,0 +1,20 @@
+
+* {background-color: whitesnake;
+    font-family: sans-serif, Helvetica, Verdana;
+    color: violet;
+}
+
+li {
+    font-family: sans-serif, Helvetica, Verdana;
+    color: violet;
+    font-size: 20px;
+    list-style: upper-roman;
+}
+
+h2, .recipe_name{
+    color: blue
+}
+
+.info {
+    color: violet
+}
